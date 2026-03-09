@@ -29,6 +29,8 @@
 
 ### 前端框架
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
@@ -40,10 +42,15 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### 后端技术
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
+
+### 数据库
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2313AA52?style=flat&logo=mongodb&logoColor=white)
 
 ### 开发工具
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)
@@ -60,7 +67,7 @@
   <tr>
     <td><b>Angular</b></td>
     <td>100%</td>
-    <td>当下最先进的前端 JS 框架</td>
+    <td>当下最先进的前端框架</td>
   </tr>
   <tr>
     <td><b>TypeScript</b></td>
@@ -82,7 +89,17 @@
     <td>90%</td>
     <td>UI 设计师必备工具</td>
   </tr>
-    <tr>
+  <tr>
+    <td><b>React</b></td>
+    <td>85%</td>
+    <td>流行的前端框架，拥有活跃的生态</td>
+  </tr>
+  <tr>
+    <td><b>Vue.js</b></td>
+    <td>85%</td>
+    <td>轻量级的渐进式框架，易上手</td>
+  </tr>
+  <tr>
     <td><b>Go</b></td>
     <td>85%</td>
     <td>高性能后端开发语言</td>
@@ -93,14 +110,19 @@
     <td>矢量图形设计与网页图标制作</td>
   </tr>
   <tr>
+    <td><b>PostgreSQL</b></td>
+    <td>80%</td>
+    <td>功能强大的开源关系型数据库</td>
+  </tr>
+  <tr>
+    <td><b>MySQL</b></td>
+    <td>80%</td>
+    <td>广泛使用的关系型数据库</td>
+  </tr>
+  <tr>
     <td><b>Node.js</b></td>
     <td>80%</td>
     <td>后端快速开发框架</td>
-  </tr>
-  <tr>
-    <td><b>MySQL / PHP</b></td>
-    <td>80%</td>
-    <td>数据库及后端开发</td>
   </tr>
 </table>
 
@@ -108,12 +130,14 @@
 
 ## 📌 推荐项目
 
+> 🔒 **注:** 此处仅展示公开项目。私有化部署项目、在职公司项目及其他保密项目不在此列出。
+
 <div>
 
 ### 🌟 [media-saber-public](https://github.com/xylplm/media-saber-public)
 > 一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 - 由多位热心开发者共同努力
-- 完全自主开发，实用工具
+- 完全自主开发，实用工具，71+ Stars
 - ![Stars](https://img.shields.io/github/stars/xylplm/media-saber-public?style=social)
 
 ### 🌟 [angular-tabler-icons](https://github.com/xylplm/angular-tabler-icons)
@@ -139,16 +163,19 @@
 - 支持 GIF 动画
 - ![Stars](https://img.shields.io/github/stars/xylplm/angular-border-avatar?style=social)
 
+### 🌟 [media-saber-ctmd](https://github.com/xylplm/media-saber-ctmd)
+> Media Saber metadata self-maintenance library
+- 媒体元数据自维护库
+- Go 开发，性能优异
+- ![Stars](https://img.shields.io/github/stars/xylplm/media-saber-ctmd?style=social)
+
 </div>
-
----
-
 ## 📈 GitHub 统计
 
 <div align="center">
 
-![xylplm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xylplm&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xylplm&layout=compact&theme=tokyonight&hide_border=true)
+![xylplm's GitHub stats](https://github-readme-stats-git-master-anuragroy0.vercel.app/api?username=xylplm&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-git-master-anuragroy0.vercel.app/api/top-langs/?username=xylplm&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=xylplm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -163,15 +190,6 @@
 ### 欢迎通过以下方式与我交流
 
 📱 **个人博客:** [www.luoxiao123.cn](https://www.luoxiao123.cn)
-
-### 社交媒体
-
-[![Weibo](https://img.shields.io/badge/Weibo-%23E1306C?style=flat&logo=sinaweibo&logoColor=white)](http://weibo.com/91xiaoyao)
-[![QQ](https://img.shields.io/badge/QQ-%2325B7D9?style=flat&logo=tencentqq&logoColor=white)](http://t.qq.com/luoxiao136611)
-[![Bilibili](https://img.shields.io/badge/Bilibili-%23FB7299?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-
-💬 **通过以上社交媒体账号 DM 我**
 
 </div>
 
